@@ -1,0 +1,114 @@
+
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Foto 1: El tec",
+          "uri": "https://maldad.github.io/pictures/foto1.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.076026,
+          "lon": -96.744710
+        }
+      },
+      "id": 1,
+      "text": {
+        "title": "Tec"
+      }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Foto 2: Jard�n Conzatti",
+          "uri": "https://maldad.github.io/pictures/foto2.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.065988,
+          "lon": -96.721618
+           
+        }
+      },
+      "id": 2,
+      "text": {
+        "title": "Filatelia"
+      }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "404 not found",
+          "uri": "https://maldad.github.io/pictures/foto3.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0630603,
+          "lon": -96.7326332
+        }
+      },
+      "id": 3,
+      "text": {
+        "title": "Jard�n Morelos"
+      }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Alameda de Le�n",
+          "uri": "https://maldad.github.io/pictures/foto4.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0618578,
+          "lon": -96.7258207
+        }
+      },
+      "id": 4,
+      "text": {
+        "title": "Alameda de Le�n"
+      }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Jard�n San Pablo",
+          "uri": "https://maldad.github.io/pictures/foto5.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0613543,
+          "lon": -96.7230472
+        }
+      },
+      "id": 5,
+      "text": {
+        "title": "Jard�n San Pablo"
+      }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Plazuela Juan Pel�ez de Berrio",
+          "uri": "https://maldad.github.io/pictures/foto6.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0605183,
+          "lon": -96.7199882
+        }
+      },
+      "id": 6,
+      "text": {
+        "title": "Plazuela Juan Pel�ez de Berrio"
+      }
+    }
+  ],
+  "layer": "layer189v5",
+  "morePages": false,
+  "nextPageKey": null,
+  "referenceImages": []
+}
