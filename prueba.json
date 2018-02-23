@@ -11,13 +11,13 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.077367,
-          "lon": -96.744796
+          "lat": 17.065969,
+          "lon": -96.721714
         }
       },
       "id": 1,
       "text": {
-        "title": "Tec"
+        "title": "Museo de la Filatelia"
       }
     },
     {"actions": [{
@@ -28,14 +28,14 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.065988,
-          "lon": -96.721618
+          "lat": 17.067321,
+          "lon": -96.724392
            
         }
       },
       "id": 2,
       "text": {
-        "title": "Filatelia"
+        "title": "Iglesia del Carmen Alto"
       }
     },
     {"actions": [{
@@ -46,13 +46,13 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.0630603,
-          "lon": -96.7326332
+          "lat": 17.065005,
+          "lon": -96.724937
         }
       },
       "id": 3,
       "text": {
-        "title": "Jard�n Morelos"
+        "title": "Centro Fotografico Alvarez Bravo"
       }
     },
     {"actions": [{
@@ -63,13 +63,13 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.0618578,
-          "lon": -96.7258207
+          "lat": 17.069932,
+          "lon": -96.724078
         }
       },
       "id": 4,
       "text": {
-        "title": "Alameda de Le�n"
+        "title": "Arcos de Xochimilco"
       }
     },
     {"actions": [{
@@ -80,13 +80,13 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.0613543,
-          "lon": -96.7230472
+          "lat": 17.063020,
+          "lon": -96.724407
         }
       },
       "id": 5,
       "text": {
-        "title": "Jard�n San Pablo"
+        "title": "MACO"
       }
     },
     {"actions": [{
@@ -97,13 +97,13 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.0605183,
-          "lon": -96.7199882
+          "lat": 17.058484,
+          "lon": -96.726903
         }
       },
       "id": 6,
       "text": {
-        "title": "Plazuela Juan Pel�ez de Berrio"
+        "title": "Mercado 20 de Noviembre"
       }
     }
   ],
