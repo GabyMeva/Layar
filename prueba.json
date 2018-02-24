@@ -48,7 +48,7 @@
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Centro Fotografico Alvarez",
+          "label": "Foto 3: Centro Fotografico Alvarez",
           "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/fotografico.JPG"
         }
       ],
@@ -70,7 +70,7 @@
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Arcos de Xochimilco",
+          "label": "Foto 4: Arcos de Xochimilco",
           "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/arcos.jpg"
         }
       ],
@@ -91,7 +91,7 @@
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Museo de Arte Contemporáneo de Oaxaca",
+          "label": "Foto 5: Museo de Arte Contemporáneo de Oaxaca",
           "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/maco.JPG"
         }
       ],
@@ -112,7 +112,7 @@
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Mercado 20 de Noviembre",
+          "label": "Foto 6: Mercado 20 de Noviembre",
           "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/noviembre.JPG"
         }
       ],
