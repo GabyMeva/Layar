@@ -6,13 +6,13 @@
     {"actions": [{
           "contentType": "text/html",
           "label": "Foto 1: El tec",
-          "uri": "https://maldad.github.io/pictures/foto1.jpg"
+          "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
         }
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.065969,
-          "lon": -96.721714
+          "lat": 17.057772,
+          "lon": -96.700781
         }
       },
       "id": 1,
