@@ -20,7 +20,8 @@
       },
       "id": 1,
       "text": {
-        "title": "Museo de la Filatelia"
+        "title": "Museo de la Filatelia",
+        "description": "Fue fundado el 9 de julio de 1998 en el Centro Histórico de la ciudad de Oaxaca a iniciativa de la Fundación Alfredo Harp Helú Oaxaca, quién donó su primer acervo"
       }
     },
     {"actions": [{
@@ -35,6 +36,9 @@
           "lon": -96.724392
            
         }
+      },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
       },
       "id": 2,
       "text": {
@@ -53,6 +57,9 @@
           "lon": -96.724937
         }
       },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
+      },
       "id": 3,
       "text": {
         "title": "Centro Fotografico Alvarez Bravo"
@@ -69,6 +76,9 @@
           "lat": 17.069932,
           "lon": -96.724078
         }
+      },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
       },
       "id": 4,
       "text": {
@@ -87,6 +97,9 @@
           "lon": -96.724407
         }
       },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
+      },
       "id": 5,
       "text": {
         "title": "MACO"
@@ -103,6 +116,9 @@
           "lat": 17.058484,
           "lon": -96.726903
         }
+      },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
       },
       "id": 6,
       "text": {
