@@ -5,14 +5,14 @@
   "hotspots": [
     {"actions": [{
           "contentType": "text/html",
-          "label": "Foto 1: El tec",
+          "label": "Foto 1: Museo de la Filatelia",
           "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
         }
       ],
       "anchor": {
         "geolocation": {
-          "lat": 17.027416,
-          "lon": -96.755195
+          "lat": 17.065969,
+          "lon": -96.721714
         }
       },
       "icon": {
@@ -21,13 +21,13 @@
       "id": 1,
       "text": {
         "title": "Museo de la Filatelia",
-        "description": "Fue fundado el 9 de julio de 1998 en el Centro Histórico de la ciudad de Oaxaca a iniciativa de la Fundación Alfredo Harp Helú Oaxaca, quién donó su primer acervo"
+        "description": "Fue fundado el 9 de julio de 1998, cuenta con postales de todo tipo, además de que tienen coleccionadas de otras épocas, como de la conquista"
       }
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Foto 2: Jard�n Conzatti",
-          "uri": "https://maldad.github.io/pictures/foto2.jpg"
+          "label": "Foto 2: Iglesia del Carmen Alto",
+          "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/carmen.JPG"
         }
       ],
       "anchor": {
@@ -38,17 +38,18 @@
         }
       },
       "icon": {
-        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/carmen.JPG"
       },
       "id": 2,
       "text": {
-        "title": "Iglesia del Carmen Alto"
+        "title": "Iglesia del Carmen Alto",
+        "description": "Con un origen que se remonta en la época prehispánica, esta iglesia está muy bien conservada y ornamentada, la huerta es empleada para ver productos artesanales del estado"
       }
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "404 not found",
-          "uri": "https://maldad.github.io/pictures/foto3.jpg"
+          "label": "Centro Fotografico Alvarez",
+          "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/fotografico.JPG"
         }
       ],
       "anchor": {
@@ -58,17 +59,19 @@
         }
       },
       "icon": {
-        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/fotografico.JPG"
       },
       "id": 3,
       "text": {
-        "title": "Centro Fotografico Alvarez Bravo"
+        "title": "Centro Fotografico Alvarez Bravo",
+        "description": "El Centro Fotográfico Manuel Álvarez Bravo fue fundado por el pintor Francisco Toledo, para difundir la fotografía  a través de exposiciones, pláticas, talleres y proyecciones. Fue inaugurado el 17 de septiembre de 1996 con la presencia del fotógrafo Manuel Álvarez Bravo."
+
       }
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Alameda de Le�n",
-          "uri": "https://maldad.github.io/pictures/foto4.jpg"
+          "label": "Arcos de Xochimilco",
+          "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/arcos.jpg"
         }
       ],
       "anchor": {
@@ -78,17 +81,18 @@
         }
       },
       "icon": {
-        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/arcos.jpg"
       },
       "id": 4,
       "text": {
-        "title": "Arcos de Xochimilco"
+        "title": "Arcos de Xochimilco",
+        "description": "Es un lugar realmente tranquilo, ideal para relajarte, leer un libro o liberar tu imaginación con su toque retro debido a su construcción de cantera, típica de la cuidad de Oaxaca."
       }
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Jard�n San Pablo",
-          "uri": "https://maldad.github.io/pictures/foto5.jpg"
+          "label": "Museo de Arte Contemporáneo de Oaxaca",
+          "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/maco.JPG"
         }
       ],
       "anchor": {
@@ -98,17 +102,18 @@
         }
       },
       "icon": {
-        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/maco.JPG"
       },
       "id": 5,
       "text": {
-        "title": "MACO"
+        "title": "Museo de Arte Contemporáneo de Oaxaca",
+        "description": "Abrió sus puertas el 28 de febrero de 1992, con el objetivo de resguardar y difundir la obra de los más destacados exponentes de la plástica oaxaqueña, ofrece muestras de la plástica contemporánea nacional e internacional (pintura, escultura, gráfica y fotografía)."
       }
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "Plazuela Juan Pel�ez de Berrio",
-          "uri": "https://maldad.github.io/pictures/foto6.jpg"
+          "label": "Mercado 20 de Noviembre",
+          "uri": "https://raw.githubusercontent.com/GabyMeva/Layar/master/noviembre.JPG"
         }
       ],
       "anchor": {
@@ -118,11 +123,13 @@
         }
       },
       "icon": {
-        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/filatelia.JPG"
+        "url": "https://raw.githubusercontent.com/GabyMeva/Layar/master/noviembre.JPG"
       },
       "id": 6,
       "text": {
-        "title": "Mercado 20 de Noviembre"
+        "title": "Mercado 20 de Noviembre",
+        "description": "El mercado 20 de Noviembre en el centro de la ciudad de Oaxaca es un lugar de visita obligada, especialmente si usted tiene hambre! Las vistas y los olores del mercado 20 de Noviembre son cautivantes, sobre todo si usted no ha visitado un mercado en Oaxaca antes"
+
       }
     }
   ],
